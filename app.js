@@ -30,13 +30,7 @@ const routes = {
         </form>
         <button id="logout">Logout</button>'`,
 
-  "/employee": `<h1>Employee</h1>
-        <form id="EmployeeForm">
-            <input type="name" id="regName" placeholder="Name" required />
-            <input type="position" id="regPosition" placeholder="Position" required />
-            <button type="submit">Add</button>
-        </form>
-        <p id="employeeMessage"></p>`,
+  "/employee": `<h1>Employee</h1>`,
 
   "/attendance": "<h1>Attendance</h1>",
 
